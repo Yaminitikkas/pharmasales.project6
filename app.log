@@ -1,0 +1,24 @@
+2025-01-02 08:44:50,197 - INFO - Starting data loading process
+2025-01-02 08:44:50,201 - INFO - Data loaded successfully
+2025-01-02 08:44:50,204 - INFO - Starting feature engineering
+2025-01-02 08:44:50,207 - INFO - Feature engineering complete
+2025-01-02 08:44:50,231 - INFO - Starting data loading process
+2025-01-02 08:44:50,231 - INFO - Starting data loading process
+2025-01-02 08:44:51,116 - INFO - Data loaded successfully
+2025-01-02 08:44:51,116 - INFO - Data loaded successfully
+2025-01-02 08:44:51,142 - INFO - Starting data preprocessing
+2025-01-02 08:44:51,142 - INFO - Starting data preprocessing
+2025-01-02 08:44:53,948 - INFO - Data preprocessing complete
+2025-01-02 08:44:53,948 - INFO - Data preprocessing complete
+2025-01-02 08:44:53,957 - INFO - Starting feature engineering
+2025-01-02 08:44:53,957 - INFO - Starting feature engineering
+2025-01-02 08:45:10,793 - INFO - Feature engineering complete
+2025-01-02 08:45:10,793 - INFO - Feature engineering complete
+2025-01-02 08:45:10,798 - INFO - Starting model training
+2025-01-02 08:45:10,798 - INFO - Starting model training
+2025-01-02 08:48:26,318 - INFO - Model training complete
+2025-01-02 08:48:26,318 - INFO - Model training complete
+2025-01-02 08:48:26,325 - INFO - Starting sales prediction
+2025-01-02 08:48:26,325 - INFO - Starting sales prediction
+2025-01-02 08:48:36,367 - INFO - Sales prediction complete
+2025-01-02 08:48:36,367 - INFO - Sales prediction complete
